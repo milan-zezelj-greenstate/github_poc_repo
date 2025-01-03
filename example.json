@@ -5,14 +5,10 @@
         {
             "language": "en",
             "values": [
-<<<<<<< HEAD
-               
-=======
                 {
                     "key": "BBBbbbbbbBB",
                     "value": "BBbbbbbbfwasfasfasfb"
                 },
->>>>>>> 65774df (New update)
                 {
                     "key": "helloMessageNoDescription",
                     "value": "Welcome to the GrowBorg app"
