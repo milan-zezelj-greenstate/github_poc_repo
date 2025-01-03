@@ -6,16 +6,8 @@
             "language": "en",
             "values": [
                 {
-                    "key": "BBBbbbbbbBB",
-                    "value": "BBbbbbbbb"
-                },
-                {
                     "key": "helloMessageNoDescription",
                     "value": "Welcome to the GrowBorg app"
-                },
-                {
-                    "key": "asdasdasd",
-                    "value": "Welcome feaefadfasf"
                 },
                 {
                     "key": "helloMessage",
@@ -26,6 +18,10 @@
                     "key": "helloWorld",
                     "value": "Hello! '{Isn''t}' this a wonderful day?",
                     "description": "Message with escaping charaters"
+                },
+                {
+                    "key": "ccccc",
+                    "value": "cccc"
                 },
                 {
                     "key": "hello",
