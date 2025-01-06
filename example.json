@@ -19,10 +19,6 @@
                     "description": "The conventional newborn programmer greeting"
                 },
                 {
-                    "key": "asdasdasd",
-                    "value": "asdasdasd"
-                },
-                {
                     "key": "helloWorld",
                     "value": "Hello! '{Isn''t}' this a wonderful day?",
                     "description": "Message with escaping charaters"
