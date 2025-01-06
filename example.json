@@ -6,8 +6,8 @@
             "language": "en",
             "values": [
                 {
-                    "key":"dsa",
-                    "value":"dsa"
+                    "key": "dsa",
+                    "value": "dsa"
                 },
                 {
                     "key": "helloMessageNoDescription",
@@ -19,10 +19,13 @@
                     "description": "The conventional newborn programmer greeting"
                 },
                 {
+<<<<<<< Updated upstream
                     "key": "asdasdasd",
                     "value": "asdasdasd"
                 },
                 {
+=======
+>>>>>>> Stashed changes
                     "key": "helloWorld",
                     "value": "Hello! '{Isn''t}' this a wonderful day?",
                     "description": "Message with escaping charaters"
