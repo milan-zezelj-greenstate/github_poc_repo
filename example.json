@@ -23,10 +23,6 @@
                     "description": "The conventional newborn programmer greeting"
                 },
                 {
-                    "key": "creatingConflict",
-                    "value":"Creatign conflict"
-                },
-                {
                     "key": "helloWorld",
                     "value": "Hello! '{Isn''t}' this a wonderful day?",
                     "description": "Message with escaping charaters"
