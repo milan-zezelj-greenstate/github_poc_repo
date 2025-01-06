@@ -6,10 +6,6 @@
             "language": "en",
             "values": [
                 {
-                    "key": "dsa",
-                    "value": "dsa"
-                },
-                {
                     "key": "helloMessageNoDescription",
                     "value": "Welcome to the GrowBorg app"
                 },
