@@ -6,11 +6,7 @@
             "language": "en",
             "values": [
                 {
-                    "key": "newTranslation",
-                    "value": "New translation"
-                },
-                {
-                    "key": "helloMessageNoDescriptionasdasdasd",
+                    "key": "helloMessageNoDescription",
                     "value": "Welcome to the GrowBorg app"
                 },
                 {
