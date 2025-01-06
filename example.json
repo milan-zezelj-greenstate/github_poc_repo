@@ -6,10 +6,6 @@
             "language": "en",
             "values": [
                 {
-                    "key": "asdasdasd",
-                    "value": "asdasdasd"
-                },
-                {
                     "key": "newTranslation",
                     "value": "New translation"
                 },
